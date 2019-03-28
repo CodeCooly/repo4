@@ -33,6 +33,7 @@ public class Controller2 extends KeyAdapter implements SnakeListener {
         this.gamePanel = gamePanel;
     }
 
+    //这里我添加了一些代码
 
     @Override
     public void keyPressed(KeyEvent e) {
